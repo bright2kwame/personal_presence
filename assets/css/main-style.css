@@ -1,0 +1,9 @@
+.display-1 {
+    font-size: 30px;
+}
+
+.navbar-brand {
+    font-family: Playfair Display, serif;
+    font-style: normal;
+    transition: color .1s;
+}
